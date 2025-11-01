@@ -1,3 +1,13 @@
+# test trigger
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 2 * * *"    # runs once a day (UTC)
+  workflow_dispatch:
+  ...
+
+
 name: Generate contribution snake
 
 on:
