@@ -17,10 +17,10 @@
 ### 🧠 About Me
 - 🎓 B.Tech in **Computer Science & Engineering**  
 - 🤖 Exploring **AI, ML, and Cloud (OCI)**  
-- 💡 Skilled in **Python, TensorFlow, Flask, and Web Dev**  
+- 💡 Skilled in **Python, TensorFlow, Flask, AI&ML, and Web Dev**  
 - 🌐 Portfolio → [xgravityxd.github.io/Abhishek-krishna](https://xgravityxd.github.io/Abhishek-krishna)  
 - 🎯 Goal: Build smart, scalable, and human-centered AI systems  
-- 💬 Ask me about **Machine Learning, Python, or Cloud**
+- 💬 Ask me about **Machine Learning, AI, Python, or Cloud**
 
 ---
 
@@ -71,7 +71,7 @@
 ### 💬 Connect With Me
 <p align="left">
 <a href="mailto:abhishekcse2125@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/abhishek-krishna-gs"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/abhishekkrishna10/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://xgravityxd.github.io/Abhishek-krishna/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
