@@ -5,15 +5,6 @@ on:
   schedule:
     - cron: "0 2 * * *"    # runs once a day (UTC)
   workflow_dispatch:
-  ...
-
-
-name: Generate contribution snake
-
-on:
-  schedule:
-    - cron: "0 2 * * *"    # runs every day (UTC)
-  workflow_dispatch:
 
 jobs:
   generate:
