@@ -77,7 +77,8 @@
 
 ---
 
-![snake animation](https://github.com/xGravityXD/xGravityXD/blob/output/snake.svg)
+![snake animation](https://raw.githubusercontent.com/xGravityXD/xGravityXD/output/snake.svg)
+
 
 
 ⭐ *“Code. Learn. Build. Repeat.”* ⭐
