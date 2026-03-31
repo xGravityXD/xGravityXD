@@ -18,7 +18,7 @@
 - 🎓 B.Tech in **Computer Science & Engineering**  
 - 🤖 Exploring **AI, ML, and Cloud (OCI)**  
 - 💡 Skilled in **Python, TensorFlow, Flask, AI&ML, and Web Dev**  
-- 🌐 Portfolio → [xgravityxd.github.io/Abhishek-krishna](https://xgravityxd.github.io/Abhishek-krishna)  
+- 🌐 Portfolio → www.abhishekkrshna.tech
 - 🎯 Goal: Build smart, scalable, and human-centered AI systems  
 - 💬 Ask me about **Machine Learning, AI, Python, or Cloud**
 
